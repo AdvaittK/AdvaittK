@@ -35,22 +35,3 @@ I'm a developer and designer with 3+ years of experience building clean, user-fr
     <img src="https://img.shields.io/badge/Email-advaitt.dev@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdvaittK&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AdvaittK&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaittK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
----
-
-
-
-## 🎯 Current Focus
-
-- Building scalable web applications
-- Exploring AI and machine learning
-- Contributing to open-source projects
-- Sharing knowledge through interactions
